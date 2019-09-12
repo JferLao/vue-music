@@ -50,40 +50,40 @@ npm run build
 
 
 #### 首页图片
-![主页](./dist/pic/1.png)
+![主页](./src/common/image/1.png)
 
 #### 歌单详情
-![歌单详情](./dist/pic/song-list.png)
+![歌单详情](./src/common/image/song-list.png)
 
 #### 歌手列表
-![歌手列表](./dist/pic/singer-list.png)
+![歌手列表](./src/common/image/singer-list.png)
 
 #### 歌手详情
-![歌手详情](./dist/pic/singer.png)
+![歌手详情](./src/common/image/singer.png)
 
 #### 排行榜
-![排行榜](./dist/pic/rank.png)
+![排行榜](./src/common/image/rank.png)
 
 #### 排行榜详情
-![排行榜详情](./dist/pic/rank-list.png)
+![排行榜详情](./src/common/image/rank-list.png)
 
 #### 搜索
-![搜索](./dist/pic/search.png)
+![搜索](./src/common/image/search.png)
 
 #### 搜索详情
-![搜索](./dist/pic/search-content.png)
+![搜索](./src/common/image/search-content.png)
 
 #### 播放器
-![播放器](./dist/pic/player.png)
+![播放器](./src/common/image/player.png)
 
 #### mini播放器
-![播放器](./dist/pic/mini-player.png)
+![播放器](./src/common/image/mini-player.png)
 
 #### 添加歌曲
-![添加歌曲](./dist/pic/add-song.png)
+![添加歌曲](./src/common/image/add-song.png)
 
 #### 个人中心
-![个人中心](./dist/pic/center.png)
+![个人中心](./src/common/image/center.png)
 
 
 
